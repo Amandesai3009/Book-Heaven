@@ -1,1 +1,2 @@
 # BookHeaven
+Built a full-stack Book Store application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Developed features for user browsing, book management, cart functionality, and secure authentication for admin and users. Designed a responsive frontend with React and managed server-side operations with Node and Express APIs. Integrated MongoDB for dynamic data storage and retrieval, ensuring seamless user experience
